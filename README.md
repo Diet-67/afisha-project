@@ -1,6 +1,14 @@
 [README.md](https://github.com/user-attachments/files/28119691/README.md)
 # 🎭 Afisha Project
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-Scientific-013243?logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?logo=plotly&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-Stats%20Viz-4c72b0" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Project-AfishaProject-purple" alt="Project Badge">
+</p>
 Аналитический проект, посвящённый исследованию пользовательской активности и посещаемости мероприятий.  
 Цель — выявить закономерности, подготовить рекомендации и визуализировать ключевые метрики.
 
