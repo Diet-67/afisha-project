@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18,24&height=120&section=header&text=Afisha%20Project&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 [README.md](https://github.com/user-attachments/files/28119691/README.md)
 # 🎭 Afisha Project
 <p align="left">
