@@ -1,0 +1,12 @@
+
+# Пример файла .env
+# Заполни своими значениями и переименуй в .env
+
+DB_HOST=your_host
+DB_PORT=5432
+DB_USER=your_username
+DB_PASSWORD=your_password
+DB_NAME=your_database
+
+# Пример API ключа
+API_KEY=your_api_key
